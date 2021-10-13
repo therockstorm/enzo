@@ -1,5 +1,6 @@
 {
   "name": "enzo",
+  "description": "Enzo Warren's site.",
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
