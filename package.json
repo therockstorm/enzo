@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "astro": "^0.20"
+    "astro": "^0.21"
   },
   "scripts": {
     "dev": "astro dev",
